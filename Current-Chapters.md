@@ -849,7 +849,7 @@ Yuliya Leontyeva
 Sina Rueegger, Andrea Komljenovic, Sarvenaz Choobdar
 
 - meetup: [https://www.meetup.com/rladies-lausanne/](https://www.meetup.com/rladies-lausanne/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesLausanne](https://twitter.com/RLadiesLausanne)
 - email:
 
 
